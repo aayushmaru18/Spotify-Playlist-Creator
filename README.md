@@ -3,4 +3,4 @@
 
 Here,I have created a playlist for the 12 August,2000:
 
-![IMG_1465](https://user-images.githubusercontent.com/68324982/130062821-c5e90ace-249c-4a63-bb8b-cd822208657a.PNG)
+![IMG_1465](https://user-images.githubusercontent.com/68324982/130062821-c5e90ace-249c-4a63-bb8b-cd822208657a.PNG = 250x300)
